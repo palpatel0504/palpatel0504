@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Pal Patel
 🎓 Computer Engineering '26
 ⚡ Full Stack Dev | Python + React | AI Beginner
+
 📫 Let's connect: [LinkedIn]:https://www.linkedin.com/in/palpatel05/
 ---
 
